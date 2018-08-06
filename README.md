@@ -1,4 +1,4 @@
-# SECOND_CONFIGURATION_WEBPACK
+# MODES_WEBPACK_CONFIGURATION
 
 I configured mode in webpack.
 
