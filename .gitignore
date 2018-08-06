@@ -36,6 +36,7 @@ build/Release
 node_modules/
 jspm_packages/
 css/
+build/
 .babelrc
 js/script-compiled.js
 
