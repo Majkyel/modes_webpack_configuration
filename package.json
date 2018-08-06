@@ -1,0 +1,17 @@
+{
+  "name": "16.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "webpack --env production",
+    "build": "webpack --env development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0"
+  }
+}
